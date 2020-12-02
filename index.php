@@ -15,6 +15,6 @@
         </ul>
         <img src="purpleflowers.jfif">
         <button>my Button</button>
-        <script src="scripts/main.js"> </script>
+        <script src="main.js"> </script>
     </body>
 </html>
